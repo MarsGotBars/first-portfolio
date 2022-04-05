@@ -87,12 +87,12 @@ const Home = () => (
                 <img src={IMAGES.Poke} alt="foto5" />
               </div>
             </a>
-            <a href="https://86908.ict-lab.nl/BEROEP1/BJM/">
+            <a href="https://weather-app-m.netlify.app/">
               <div className="overlay">
                 <article>
                   <h3>Weather app</h3>
                 </article>
-                <img src={IMAGES.BJM} alt="foto6" />
+                <img src={IMAGES.Weath} alt="foto6" />
               </div>
             </a>
         </figure>

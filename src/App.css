@@ -70,7 +70,7 @@ a:not(.arrow, .down, .active) {
 /* * Home * */
 
 section.top {
-  background-image: url(./media/hero-img.png);
+  background-image: url(./media/portf.png);
   background-position: top;
   background-position-y: -520px;
   height: calc(100vh - 94px);
